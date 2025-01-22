@@ -7,3 +7,5 @@ Obsidian recognizes the following file formats right now:
 5. PDF files: `pdf`.
 
 All these types of files can be [[Embed files|embedded]] in a note.
+
+![[Screenshot 2025-01-22 180224.png]]

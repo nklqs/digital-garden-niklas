@@ -5,5 +5,5 @@ Das da oben ist ein Header
 Test ==ijnjnj==
 nnjnj
  Bild wird über /public/images deployed: (funktioniert)
-Bild in Attachments hinzufügen (wenn ein BildJETZT erscheint funktioniert es)
+Bild in Attachments hinzufügen (es funktioniert nicht)
 ![[Screenshot 2025-01-22 180224.png]]

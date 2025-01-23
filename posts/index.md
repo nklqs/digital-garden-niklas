@@ -7,3 +7,4 @@
 ### Aktuelle Stunde Nachhilfe Richter:
 [[14.01.2025]]
 ### Aktuelle Stunde Nachhilfe Schuster:
+[[11.01.2025]]
